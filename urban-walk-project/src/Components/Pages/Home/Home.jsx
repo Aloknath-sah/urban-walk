@@ -41,6 +41,16 @@ const Home = () => {
                         </Link>
                     </div>
                     
+                    <div>
+                        <Link to="/products/women" style={{textDecoration:"none", color:"black"}} >
+                            <img src="https://cdn.allbirds.com/image/fetch/q_auto,f_auto/w_834,f_auto,q_auto,c_fill,ar_0.7433155080213903/https://images.ctfassets.net/9uo1qvvet3xa/6s0mLTD6H0uwtXHz5QYm7D/dfe34a367f616eaa5bf6d281b4382c9c/M_PCT_WRUM.jpg" width="300px" />
+                            <h3>
+                                Gifts
+                            </h3>
+                            
+                        </Link>
+                    </div>
+
                 </div>
             </div>
             
