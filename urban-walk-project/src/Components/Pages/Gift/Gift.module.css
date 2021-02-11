@@ -1,0 +1,23 @@
+.light{
+    margin-top:-25%;
+    text-align: center;
+    
+}
+
+.gift{
+    display: flex;
+    justify-content: center;
+}
+
+.gift > * {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.gift > * > *{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}

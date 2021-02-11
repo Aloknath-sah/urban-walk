@@ -1,0 +1,27 @@
+[
+    
+    {
+        "id":1,
+        "category":"mens_shoes"
+    },
+    {
+        "id":2,
+        "category":"womens_shoes"
+    },
+    {
+        "id":3,
+        "category":"mens_apparel"
+    },
+    {
+        "id":4,
+        "category":"womens-apparel"
+    },
+    {
+        "id":5,
+        "category":"mens-tree-skippers"
+    },
+    {
+        "id":6,
+        "category":"mens-mizzles"
+    }
+]

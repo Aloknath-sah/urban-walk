@@ -1,0 +1,45 @@
+
+
+.light{
+    color:#d50000;
+    margin-top: -30%;
+    padding: 20px;
+    font-size: 35px;
+    text-align: center;
+}
+
+.light > a {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+
+
+
+.see {
+    background-color: black;
+    width: 300px;
+    margin: auto;
+    font-size: 22px;
+    padding: 10px;
+}
+
+.main{
+    text-align: center;
+    margin-top: 180px;
+}
+
+.categ{
+    display: flex;
+    margin: 20px;
+    text-align: center;
+}
+
+.categ > * {
+    margin: 20px;
+    padding: 10px;
+}
